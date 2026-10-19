@@ -1,0 +1,227 @@
+Year,Species,SubDiv1,Catches1,SubDiv2_Name,Catches_Area2,SubDiv3_Name,Catches_Area3,SubDiv4_Name,Catches_Area4,Advised_Catch,Notes
+1988,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",55829,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",426037,"4.a, 4.b, 4.c, 3.a",45143,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",30838,832000,
+1989,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",42615,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",475179,"4.a, 4.b, 4.c, 3.a",75958,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",33695,630000,
+1990,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",2106,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",463495,"4.a, 4.b, 4.c, 3.a",63192,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",32817,600000,
+1991,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",78703,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",218946,"4.a, 4.b, 4.c, 3.a",39872,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",32003,670000,
+1992,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",62312,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",318018,"4.a, 4.b, 4.c, 3.a",65974,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",28722,NA,
+1993,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",43240,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",347101,"4.a, 4.b, 4.c, 3.a",58082,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",32256,490000,
+1994,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",22674,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",378704,"4.a, 4.b, 4.c, 3.a",28563,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",29473,485000,
+1995,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",23733,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",423504,"4.a, 4.b, 4.c, 3.a",104004,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",27664,518000,
+1996,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",23447,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",478077,"4.a, 4.b, 4.c, 3.a",119359,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",25099,500000,
+1997,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",62570,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",514654,"4.a, 4.b, 4.c, 3.a",65091,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",30122,540000,
+1998,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",177494,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",827194,"4.a, 4.b, 4.c, 3.a",94881,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",29400,650000,
+1999,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",179639,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",943578,"4.a, 4.b, 4.c, 3.a",106609,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",26402,650000,
+2000,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",284666,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",989131,"4.a, 4.b, 4.c, 3.a",114477,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",24654,800000,
+2001,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",591583,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1045100,"4.a, 4.b, 4.c, 3.a",118523,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",24964,628000,
+2002,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",541467,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",846602,"4.a, 4.b, 4.c, 3.a",145652,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",23071,0,Recovery Plan
+2003,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",931508,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1211621,"4.a, 4.b, 4.c, 3.a",158180,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",20097,600000,
+2004,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",921349,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1232534,"4.a, 4.b, 4.c, 3.a",138593,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",85093,925000,
+2005,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",405577,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1465735,"4.a, 4.b, 4.c, 3.a",128033,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",27608,1075000,
+2006,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",404362,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1428208,"4.a, 4.b, 4.c, 3.a",105239,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",28331,1500000,
+2007,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",172709,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1360882,"4.a, 4.b, 4.c, 3.a",61105,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",17634,980000,
+2008,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",68352,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1111292,"4.a, 4.b, 4.c, 3.a",36061,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",30761,835000,
+2009,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",46629,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",533996,"4.a, 4.b, 4.c, 3.a",22387,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",32627,384000,
+2010,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",36214,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",441521,"4.a, 4.b, 4.c, 3.a",17545,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",28552,540000,
+2011,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",20599,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",72279,"4.a, 4.b, 4.c, 3.a",7524,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",3191,40100–223000,
+2012,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",24391,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",324545,"4.a, 4.b, 4.c, 3.a",5678,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",29402,391000,
+2013,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",31759,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",481356,"4.a, 4.b, 4.c, 3.a",8749,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",103973,643000,
+2014,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",45580,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",885483,"4.a, 4.b, 4.c, 3.a",28596,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",195620,948950,
+2015,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",150828,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",895684,"4.a, 4.b, 4.c, 3.a",44661,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",305071,839886,
+2016,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",59744,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",905087,"4.a, 4.b, 4.c, 3.a",55774,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",162583,≤776391,
+2017,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",136565,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1284105,"4.a, 4.b, 4.c, 3.a",45474,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",91917,≤1342330,
+2018,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",143204,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1445957,"4.a, 4.b, 4.c, 3.a",43484,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",78831,≤1387872,
+2019,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",68593,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1271883,"4.a, 4.b, 4.c, 3.a",44856,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",130194,≤1143629,
+2020,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",92084,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1059197,"4.a, 4.b, 4.c, 3.a",64327,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",279640,≤1161615,
+2021,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",112082,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",801768,"4.a, 4.b, 4.c, 3.a",39509,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",190091,≤929292,
+2022,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",105752,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",724086,"4.a, 4.b, 4.c, 3.a",59371,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",149527,≤752736,
+2023,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",112352,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1115090,"4.a, 4.b, 4.c, 3.a",99955,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",409702,≤1359629,
+2024,Blue Whiting,"1.a, 1.b, 2.a, 2.b, 5.a, 14.a, 14.b",122317,"12.a, 12.b, 12.c, 5.b, 6.a, 6.b, 7.a, 7.b, 7.c",1384345,"4.a, 4.b, 4.c, 3.a",44864,"8.a, 8.b, 8.c, 8.d, 8.e, 9.a, 9.b, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k",245734,≤1529754,
+1998,NEA Mackerel,"6.a, 6.b",110141,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",105181,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",264947,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",134219,498000,
+1999,NEA Mackerel,"6.a, 6.b",116362,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",94290,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",313014,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",72848,437000,
+2000,NEA Mackerel,"6.a, 6.b",156031,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",115711,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",271420,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",92557,642000,
+2001,NEA Mackerel,"6.a, 6.b",133430,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",150008,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",341663,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",67113,665000,
+2002,NEA Mackerel,"6.a, 6.b",127966,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",104143,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",391857,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",74109,694000,
+2003,NEA Mackerel,"6.a, 6.b",135690,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",90352,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",354109,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",53883,542000,
+2004,NEA Mackerel,"6.a, 6.b",133033,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",103703,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",306043,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",62913,545000,
+2005,NEA Mackerel,"6.a, 6.b",79975,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",90280,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",249748,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",54129,320000–420000,
+2006,NEA Mackerel,"6.a, 6.b",91539,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",66219,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",204674,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",46716,373000–487000,
+2007,NEA Mackerel,"6.a, 6.b",110788,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",71237,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",253013,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",72891,390000–509000,
+2008,NEA Mackerel,"6.a, 6.b",81109,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",75272,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",232157,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",148669,349000–456000,
+2009,NEA Mackerel,"6.a, 6.b",141529,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",91412,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",232718,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",163604,443000–578000,
+2010,NEA Mackerel,"6.a, 6.b",106732,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",104129,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",246819,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",355731,527000–572000,
+2011,NEA Mackerel,"6.a, 6.b",160756,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",51098,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",301746,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",398132,529000–672000,
+2012,NEA Mackerel,"6.a, 6.b",121114,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",65728,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",218400,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",449325,586000–639000,
+2013,NEA Mackerel,"6.a, 6.b",132062,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",49869,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",260922,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",464484,497000–542000,
+2014,NEA Mackerel,"6.a, 6.b",180067,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",93709,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",383887,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",684082,927000–1011000,
+2015,NEA Mackerel,"6.a, 6.b",134728,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",98574,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",295877,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",632493,831000–906000,
+2016,NEA Mackerel,"6.a, 6.b",206326,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",37301,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",248070,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",563528,≤773842,
+2017,NEA Mackerel,"6.a, 6.b",225972,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",21135,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",270921,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",603838,≤857185,
+2018,NEA Mackerel,"6.a, 6.b",157249,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",31970,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",342362,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",455689,≤550948,
+2019,NEA Mackerel,"6.a, 6.b",122991,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",32848,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",307236,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",345019,≤770358,
+2020,NEA Mackerel,"6.a, 6.b",130577,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",48807,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",456517,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",356985,≤922064,
+2021,NEA Mackerel,"6.a, 6.b",146519,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",15912,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",222119,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",663111,≤852284,
+2022,NEA Mackerel,"6.a, 6.b",63850,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",25084,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",350718,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",571403,≤794920,
+2023,NEA Mackerel,"6.a, 6.b",116875,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",11307,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",376512,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",522456,≤782066,
+2024,NEA Mackerel,"6.a, 6.b",136014,"7.a, 7.b, 7.c, 7.d, 7.e, 7.f, 7.g, 7.h, 7.i, 7.j, 7.k, 8.a, 8.b, 8.d, 8.e",12038,"3.a, 3.b, 3.c, 3.d, 4.a, 4.b, 4.c",371175,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 14.a, 14.b, 12.a, 12.b",353018,≤739386,
+1998,North Sea Haddock,"4.a, 4.b, 4.c",77000,,,,,,,100300,Note that Management Plans data only relates to North Sea Haddock (in Area 4)
+1999,North Sea Haddock,"4.a, 4.b, 4.c",64000,,,,,,,72000,Bilateral Agreement between Norway and Russia; set aside allocation for third parties
+2000,North Sea Haddock,"4.a, 4.b, 4.c",45000,,,,,,,<51700,"Note: 1998-2014 considering Landings, 2015-2024 considers Catch"
+2001,North Sea Haddock,"4.a, 4.b, 4.c",39000,,,,,,,<58000,
+2002,North Sea Haddock,"4.a, 4.b, 4.c",53000,,,,,,,<94000,
+2003,North Sea Haddock,"4.a, 4.b, 4.c",42000,,,,,,,-,No cod catches 
+2004,North Sea Haddock,"4.a, 4.b, 4.c",47000,,,,,,,No_forecast,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits."
+2005,North Sea Haddock,"4.a, 4.b, 4.c",48000,,,,,,,92000,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits."
+2006,North Sea Haddock,"4.a, 4.b, 4.c",36000,,,,,,,39000,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits."
+2007,North Sea Haddock,"4.a, 4.b, 4.c",31000,,,,,,,55400,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits."
+2008,North Sea Haddock,"4.a, 4.b, 4.c",29000,,,,,,,49300,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits; includes industrial bycatch"
+2009,North Sea Haddock,"4.a, 4.b, 4.c",30000,,,,,,,44700,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits; includes industrial bycatch"
+2010,North Sea Haddock,"4.a, 4.b, 4.c",28000,,,,,,,38000,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits; includes industrial bycatch"
+2011,North Sea Haddock,"4.a, 4.b, 4.c",27000,,,,,,,-,See scenarios
+2012,North Sea Haddock,"4.a, 4.b, 4.c",30000,,,,,,,41575,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits; includes industrial bycatch"
+2013,North Sea Haddock,"4.a, 4.b, 4.c",37000,,,,,,,47811,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits; includes industrial bycatch"
+2014,North Sea Haddock,"4.a, 4.b, 4.c",35000,,,,,,,38201,"For Advised Catch: the exploitation of this stock should be conducted in the context of mixed fisheries, protecting stocks outside safe biological limits."
+2015,North Sea Haddock,"4.a, 4.b, 4.c",34707,,,,,,,68690,
+2016,North Sea Haddock,"4.a, 4.b, 4.c",35848,,,,,,,≤59945,
+2017,North Sea Haddock,"4.a, 4.b, 4.c",34648,,,,,,,≤39461,
+2018,North Sea Haddock,"4.a, 4.b, 4.c",33130,,,,,,,≤48990,
+2019,North Sea Haddock,"4.a, 4.b, 4.c",30337,,,,,,,≤33956,
+2020,North Sea Haddock,"4.a, 4.b, 4.c",35060,,,,,,,≤41818,
+2021,North Sea Haddock,"4.a, 4.b, 4.c",34888,,,,,,,≤69280,
+2022,North Sea Haddock,"4.a, 4.b, 4.c",48318,,,,,,,≤128708,
+2023,North Sea Haddock,"4.a, 4.b, 4.c",57639,,,,,,,≤126511,
+2024,North Sea Haddock,"4.a, 4.b, 4.c",53702,,,,,,,≤149024,
+2002,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",40648,,,,,,,13000,Note that Management Plans data only relates to Barent Sea Cod (in Areas 1 and 2)
+2003,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",37899,,,,,,,8000,
+2004,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",39533,,,,,,,0,
+2005,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",38308,,,,,,,0,
+2006,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",44971,,,,,,,0,
+2007,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",34287,,,,,,,0,
+2008,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",35673,,,,,,,0,
+2009,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",30888,,,,,,,0,
+2010,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",42704,,,,,,,0,
+2011,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",35882,,,,,,,0,
+2012,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",34678,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2013,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",29276,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2014,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",30650,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2015,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",42383,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2016,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",57403,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2017,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",62173,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2018,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",42432,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2019,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",43761,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2020,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",49366,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2021,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",44970,,,,,,,N/A,"Rebuilding plan, action dependent on autumn survey "
+2022,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",43941,,,,,,,≤12146,
+2023,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",52170,,,,,,,≤29347,
+2024,Barents Sea Cod,"1.a, 1.b, 2.a, 2.b",35684,,,,,,,≤27989,
+1988,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",135301,,,,,,,120000–150000,Note that Management Plans data only relates to North Sea Herring and NSS Herring within the North Sea Demersal Stocks
+1989,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",103830,,,,,,,100000,Note that the NSS Herring did not experience a poleward shift
+1990,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",86411,,,,,,,80000,
+1991,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",84683,,,,,,,0,
+1992,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",104448,,,,,,,0,
+1993,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",232457,,,,,,,119000,
+1994,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",479228,,,,,,,334000,
+1995,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",905501,,,,,,,513000,
+1996,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1220283,,,,,,,N/A,
+1997,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1426507,,,,,,,N/A,
+1998,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1223131,,,,,,,N/A,
+1999,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1235433,,,,,,,1263000,
+2000,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1207201,,,,,,,≤1500000,
+2001,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",766136,,,,,,,753000,
+2002,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",807795,,,,,,,853000,
+2003,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",789510,,,,,,,710000,
+2004,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",794066,,,,,,,825000,
+2005,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1003243,,,,,,,890000,
+2006,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",968958,,,,,,,732000,
+2007,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1266993,,,,,,,1280000,
+2008,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1545656,,,,,,,1518000,
+2009,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1687371,,,,,,,1643000,
+2010,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",1457015,,,,,,,1483000,
+2011,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",992997,,,,,,,988000–1170000,
+2012,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",826000,,,,,,,833000,
+2013,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",684743,,,,,,,619000,
+2014,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",461306,,,,,,,418487,
+2015,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",328740,,,,,,,283013,
+2016,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",383174,,,,,,,≤316876,
+2017,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",721566,,,,,,,≤437364,
+2018,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",592899,,,,,,,≤384197,
+2019,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",777165,,,,,,,≤588562,
+2020,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",720937,,,,,,,≤525594,
+2021,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",851813,,,,,,,≤651033,
+2022,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",813834,,,,,,,≤598588,
+2023,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",680552,,,,,,,≤511171,
+2024,NSS Herring,"1.a, 1.b, 2.a, 2.b, 5.a, 5.b, 4.a, 14.a",460226,,,,,,,≤390010,
+1972,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",407970,,,,,,,N/A,
+1973,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",344861,,,,,,,N/A,
+1974,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",396835,,,,,,,N/A,
+1975,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",495079,,,,,,,N/A,
+1976,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",402360,,,,,,,N/A,
+1977,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",240393,,,,,,,N/A,
+1978,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",146733,,,,,,,N/A,moratorium was agreed upon by EU and Norway from 1978-1984
+1979,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",149190,,,,,,,N/A,
+1980,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",202674,,,,,,,N/A,
+1981,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",226530,,,,,,,N/A,
+1982,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",256136,,,,,,,N/A,
+1983,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",253236,,,,,,,N/A,
+1984,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",247297,,,,,,,N/A,
+1985,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",247317,,,,,,,N/A,
+1986,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",223843,,,,,,,N/A,
+1987,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",195106,,,,,,,610000,EU and Norway finally agreed on a three-step allocation where steps reflect the influence of stock size on zonal distribution
+1988,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",180062,,,,,,,515000,
+1989,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",127703,,,,,,,514000,
+1990,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",86742,,,,,,,403000,
+1991,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",97204,,,,,,,423000,
+1992,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",134970,,,,,,,406 000,
+1993,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",180145,,,,,,,340000,
+1994,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",169385,,,,,,,346000,
+1995,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",168816,,,,,,,429000,
+1996,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",204822,,,,,,,156000,
+1997,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",169954,,,,,,,159000,Agreement changed so Norway has fixed share
+1998,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",161972,,,,,,,254000,
+1999,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",123406,,,,,,,265000,
+2000,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",126823,,,,,,,265000,
+2001,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",173353,,,,,,,N/A,See scenarios
+2002,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",155173,,,,,,,N/A,See scenarios
+2003,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",74407,,,,,,,N/A,See scenarios
+2004,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",72470,,,,,,,N/A,See scenarios
+2005,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",64085,,,,,,,N/A,See scenarios
+2006,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",66963,,,,,,,N/A,See scenarios
+2007,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",67371,,,,,,,N/A,See scenarios
+2008,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",49927,,,,,,,N/A,See scenarios
+2009,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",46520,,,,,,,N/A,See scenarios
+2010,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",41343,,,,,,,N/A,See scenarios
+2011,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",42882,,,,,,,N/A,See scenarios
+2012,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",42912,,,,,,,N/A,See scenarios
+2013,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",46703,,,,,,,N/A,See scenarios
+2014,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",45925,,,,,,,N/A,See scenarios
+2015,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",41477,,,,,,,N/A,See scenarios
+2016,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",42930,,,,,,,555086,
+2017,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",40860,,,,,,,458926,
+2018,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",39686,,,,,,,517891,
+2019,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",36321,,,,,,,311572,
+2020,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",38929,,,,,,,431062,
+2021,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",45299,,,,,,,365792,
+2022,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",57385,,,,,,,532183,
+2023,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",67076,,,,,,,414886,
+2024,North Sea Herring,"4.a, 4.b, 4.c, 3.a, 7.d",66869,,,,,,,532166,
+2003,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",121656,,,,,,,N/A,North Sea Saithe in the North Sea Demersal Stocks
+2004,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",113792,,,,,,,N/A,
+2005,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",121217,,,,,,,N/A,
+2006,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",128711,,,,,,,N/A,
+2007,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",106333,,,,,,,N/A,
+2008,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",129887,,,,,,,N/A,
+2009,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",114520,,,,,,,N/A,
+2010,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",104723,,,,,,,N/A,
+2011,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",102006,,,,,,,N/A,
+2012,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",87049,,,,,,,N/A,
+2013,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",87271,,,,,,,N/A,
+2014,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",82172,,,,,,,N/A,
+2015,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",81445,,,,,,,<80097,
+2016,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",77672,,,,,,,≤75049,
+2017,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",94582,,,,,,,≤140653,
+2018,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",95446,,,,,,,≤118460,
+2019,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",96634,,,,,,,≤103327,
+2020,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",76820,,,,,,,≤88093,
+2021,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",50951,,,,,,,≤65687 ,
+2022,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",53808,,,,,,,≤49614,
+2023,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",61041,,,,,,,≤58912,
+2024,North Sea Saithe,"4.a, 4.b, 4.c, 6.a, 6.b, 3.a",60303,,,,,,,≤73815,
