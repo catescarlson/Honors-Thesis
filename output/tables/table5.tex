@@ -1,0 +1,38 @@
+
+\begingroup
+\centering
+\begin{tabular}{lccccc}
+   \tabularnewline \midrule \midrule
+   Dependent Variables: & \multicolumn{3}{c}{F\_FMSY} & \multicolumn{2}{c}{catch\_advised}\\
+   Model:                          & (1)             & (2)             & (3)             & (4)            & (5)\\  
+   \midrule
+   \emph{Variables}\\
+   Distribution Shift              & 0.0087$^{***}$  & 0.0092$^{***}$  & 0.0097$^{***}$  & 0.0027         & 0.0088$^{***}$\\   
+                                   & (0.0020)        & (0.0020)        & (0.0022)        & (0.0021)       & (0.0031)\\   
+   Lagged Coverage                 & 0.4732          &                 &                 & -0.8387$^{**}$ & -1.831$^{*}$\\   
+                                   & (0.4094)        &                 &                 & (0.3851)       & (0.9511)\\   
+   Shift $\times$ Lagged Coverage  & -0.0402$^{***}$ &                 &                 & 0.0129         & 0.0183\\   
+                                   & (0.0120)        &                 &                 & (0.0110)       & (0.0193)\\   
+   Stock Health                    & -0.0829$^{***}$ & -0.0750$^{**}$  & -0.0765$^{**}$  & 0.1137$^{**}$  & 0.3895$^{**}$\\   
+                                   & (0.0312)        & (0.0317)        & (0.0317)        & (0.0494)       & (0.1721)\\   
+   Management Coverage             &                 & 0.6040$^{*}$    & 0.5450          &                &   \\   
+                                   &                 & (0.3637)        & (0.3608)        &                &   \\   
+   Shift $\times$ Coverage         &                 & -0.0350$^{***}$ & -0.0327$^{***}$ &                &   \\   
+                                   &                 & (0.0114)        & (0.0117)        &                &   \\   
+   Under Review                    &                 &                 & 0.1901          &                &   \\   
+                                   &                 &                 & (0.1241)        &                &   \\   
+   \midrule
+   \emph{Fixed-effects}\\
+   stock                           & Yes             & Yes             & Yes             & Yes            & Yes\\  
+   Year                            & Yes             & Yes             & Yes             & Yes            & Yes\\  
+   \midrule
+   \emph{Fit statistics}\\
+   Adjusted R$^2$                  & 0.48899         & 0.49627         & 0.49564         & 0.64799        & 0.75911\\  
+   Observations                    & 211             & 217             & 217             & 134            & 72\\  
+   \midrule \midrule
+   \multicolumn{6}{l}{\emph{Heteroskedasticity-robust standard-errors in parentheses}}\\
+   \multicolumn{6}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+

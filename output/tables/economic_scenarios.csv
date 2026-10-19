@@ -1,0 +1,5 @@
+scenario,F_FMSY,yield,yield_vs_A,value,d_value,d_gva,d_activity_lo,d_activity_hi
+A. Baseline,1.223,0.95,1,750,0,0,0,0
+B. +1 SD shift,1.526,0.724,0.761,571.061,-178.939,-88.038,-322.09,-447.347
+"C. +1 SD shift, no coverage",2.146,0,0,0,-750,-369,-1350,-1875
+Management benefit (B - C),NA,NA,NA,NA,571.061,280.962,1027.91,1427.653
